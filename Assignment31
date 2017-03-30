@@ -1,0 +1,17 @@
+package acadgild;
+
+public class Assign31 {
+		int x;  int y;
+		String name;
+		public static void main(String args[]) {
+		Assign31 pnt = new Assign31();
+		System.out.println ("pnt is " + pnt.name + " " + pnt.x + " " + pnt.y);
+		} 
+		}
+
+
+
+
+
+
+//ans is------pnt is null 0 0
